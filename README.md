@@ -1,4 +1,5 @@
 ### Hi there 👋. I'm Stefan and I'm a Flutter developer. Here are some of my Flutter apps.
+Hire me on Upwork: https://www.upwork.com/freelancers/~01ff516341fd564a7c
 
 ## Assets management app 
 App for managing your investments, assets and pension. It has graphs, charts, reports and document management. Features biometric authentication.
