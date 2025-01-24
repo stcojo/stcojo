@@ -1,6 +1,11 @@
 ### Hi there 👋. I'm Stefan and I'm a Flutter developer. Here are some of my Flutter apps.
 Hire me on Upwork: https://www.upwork.com/freelancers/~01ff516341fd564a7c
 
+## Card management and discounts app
+Card savings app that shows you on the map nearby stores, sales and offers. Add your cards and you will see customized sales depending on your cards and preferences. The app features an interactive map with markers and clusterization, notifications, geolocation and analytics.
+
+<img height="500" alt="Screenshot 2025-01-19 at 09 55 27" src="https://github.com/user-attachments/assets/21b26091-27c2-4af0-a878-2fe5736f339a" /><img height="500" alt="Screenshot 2025-01-19 at 09 55 35" src="https://github.com/user-attachments/assets/7a28a2b7-d4d0-4687-bc0d-f02fe6c678ee" /><img height="500" alt="Screenshot 2025-01-19 at 09 56 59" src="https://github.com/user-attachments/assets/7a1434bf-3f0a-4f15-80b2-b57323ebcd89" /><img height="500" alt="Screenshot 2025-01-19 at 09 56 25" src="https://github.com/user-attachments/assets/7f80b878-86ea-40a9-96bd-9a1f883a0651" /><img height="500" alt="Screenshot 2025-01-19 at 09 55 46" src="https://github.com/user-attachments/assets/791a6477-3f78-41f4-8098-a5062a10e1d8" /><img height="500" alt="Screenshot 2025-01-19 at 09 57 19" src="https://github.com/user-attachments/assets/aea81547-934a-46dc-9494-bc74f9788d82" />
+
 ## Assets management app 
 App for managing your investments, assets and pension. It has graphs, charts, reports and document management. Features biometric authentication.
 
